@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\bin\Debug\TheVoicesAreGettingLouder.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\bin\Debug\TheVoicesAreGettingLouder.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.TripBalls.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.Alarm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.FontLUTProcessor.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\obj\Debug\TheVoicesAreGettingLouder.ActiveJournalSystem.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\bin\Debug\OpenNETCF.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\bin\Debug\OpenNETCF.Drawing.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TheVoicesAreGettingLouder\TheVoicesAreGettingLouder\bin\Debug\OpenNETCF.Configuration.dll
